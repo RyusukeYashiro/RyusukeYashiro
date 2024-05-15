@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RyusukeYashiro&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RyusukeYashiro&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RyusukeYashiro&theme=gruvbox)
