@@ -1,4 +1,7 @@
+HelloWorld!!
 
+I am currently a college student and am a member of an engineering training institute called 42！！
+I am currently studying mainly C, C++, javascript and React!
 
 <!--
 **RyusukeYashiro/RyusukeYashiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
