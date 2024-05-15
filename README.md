@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#state
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={RyusukeYashiro}&theme={github})
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={RyusukeYashiro}&theme={github}&exclude={exclude})
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username={RyusukeYashiro}&theme={github}&exclude={exclude})
