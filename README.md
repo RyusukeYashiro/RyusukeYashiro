@@ -16,5 +16,14 @@ Here are some ideas to get you started:
 -->
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=RyusukeYashiro)
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RyusukeYashiro&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RyusukeYashiro&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RyusukeYashiro&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RyusukeYashiro&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RyusukeYashiro&theme=gruvbox&utcOffset=9)
+
+## Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=RyusukeYashiro&theme=gruvbox)
+
 
