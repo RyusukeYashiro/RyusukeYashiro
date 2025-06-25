@@ -18,7 +18,7 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,python,go,c,cpp,react,nextjs,nodejs,express,flutter,flask,postgresql,mysql,docker,aws,supabase,git&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,python,go,c,cpp,react,nextjs,nodejs,express,jquery,flutter,flask,postgresql,mysql,docker,aws,supabase,git&theme=dark)](https://skillicons.dev)
 
 </div>
 
