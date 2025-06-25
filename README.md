@@ -18,7 +18,7 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,python,go,react,nextjs,nodejs,express,flutter,flask,postgresql,mysql,docker,aws,supabase,git&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,python,go,c,cpp,react,nextjs,nodejs,express,flutter,flask,postgresql,mysql,docker,aws,supabase,git&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -32,12 +32,6 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RyusukeYashiro&theme=github-compact&hide_border=true&area=true&color=16A085&point=16A085&line=16A085" alt="GitHub Activity Graph" />
-</div>
-
-## 💚 Contributions
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/16A085/RyusukeYashiro" alt="GitHub Contributions Chart" />
 </div>
 
 ---
