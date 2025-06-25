@@ -1,28 +1,51 @@
-HelloWorld!!
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=2000&pause=1000&color=16A085&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B;I'm+RyusukeYashiro" alt="Typing SVG" />
+</div>
 
+<br/>
 
-<!--
-**RyusukeYashiro/RyusukeYashiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+**🎓 Student at Meiji University & 42 Tokyo**  
+**💼 Working at KaizenPlatform & StormStory**  
+**🚀 Building the future, one commit at a time**
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
 
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyusukeYashiro&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=RyusukeYashiro&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
-</p>
+## 🛠️ Tech Stack
 
+<div align="center">
 
-## Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=RyusukeYashiro&theme=gruvbox)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,python,go,react,nextjs,nodejs,express,flutter,flask,postgresql,mysql,docker,aws,supabase,git&theme=dark)](https://skillicons.dev)
 
+</div>
 
+## 📊 Most Used Languages
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyusukeYashiro&layout=compact&langs_count=8&theme=dark&hide_border=true&card_width=400&bg_color=0d1117&title_color=16A085&text_color=c9d1d9&icon_color=16A085"/>
+</div>
+
+## 📈 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RyusukeYashiro&theme=github-compact&hide_border=true&area=true&color=16A085&point=16A085&line=16A085" alt="GitHub Activity Graph" />
+</div>
+
+## 💚 Contributions
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/16A085/RyusukeYashiro" alt="GitHub Contributions Chart" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=RyusukeYashiro&color=16A085&style=flat-square&label=Profile+Views" alt="Profile views" />
+</div>
+
+---
+
+⭐️ From [RyusukeYashiro](https://github.com/RyusukeYashiro)
