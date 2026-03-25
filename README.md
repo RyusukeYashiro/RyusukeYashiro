@@ -85,17 +85,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RyusukeYashiro&bg_color=ffffff&color=333333&line=7FB3A8&point=7FB3A8&area_color=7FB3A8&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph" />
 </div>
 
-<br/>
-
-<!-- ===== TROPHIES ===== -->
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RyusukeYashiro&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
-</div>
-
-<br/>
-
 ---
 
 <div align="center">
