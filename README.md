@@ -5,14 +5,6 @@
 
 <br/>
 
-<div align="center">
-
-**🎓 Studying Behavioral Economics at Meiji University**  
-**💼 Software Engineer at Howtelevision**  
-**🌱 Building elegant systems with curiosity and purpose**
-
-</div>
-
 <br/>
 
 <!-- ===== TECH STACK ===== -->
